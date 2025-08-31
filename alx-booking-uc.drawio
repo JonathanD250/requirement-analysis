@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="c3PF-ROePS8t4eGIkP1m">
+    <mxGraphModel dx="1042" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DybJGX1wVXwipS3jiP1C-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/My_Customers.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="93.3" width="102.76" height="83.4" as="geometry" />
+        </mxCell>
+        <mxCell id="DybJGX1wVXwipS3jiP1C-3" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.messenger" vertex="1" parent="1">
+          <mxGeometry x="110.16" y="220" width="102.6" height="93.4" as="geometry" />
+        </mxCell>
+        <mxCell id="DybJGX1wVXwipS3jiP1C-4" value="Payment" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.payment;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DybJGX1wVXwipS3jiP1C-6" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DybJGX1wVXwipS3jiP1C-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.registrar_service;" vertex="1" parent="1">
+          <mxGeometry x="387" y="220" width="56" height="52" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
